@@ -26,13 +26,19 @@ Dinoflagellates ![](images/chl-dino/dino_15_3.png)
 
 SST ![](images/temp/sst_penas_16-2.png)
 
+
+
 - Hypoxic Conditions in the surface and in deeper waters might contribute in the negative effects of the whales environment.
 
 O2 vertical concentration ![](images/oxygen-nut/o2_vertical_profile163.png)
 
+
 Hypoxic zones ![](images/oxygen-nut/hypoxia_assessment_16_3.png)
+
+
 
 - The wind was considerate to have an idea where the whales were arrasted by the currents.
 
-Wind speed and direction ![](images/wind/wind_evolution_penas_march2015-1.png)
+
+Wind speed and direction ![](images/wind/wind_evolution_penas_march2105-1.png)
 
