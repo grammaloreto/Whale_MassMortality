@@ -24,17 +24,15 @@ Dinoflagellates ![](images/chl-dino/dino_15_3.png)
 
 - Sea Surface Temperature (SST) were high in that area during the years were the bodies were found. The high temperatures are consequence of 'El Niño' event. 2013 -2017 were especially hot years for the Pacific that contributes to HAB.
 
-SST ![](images/temp/sst_penas_16-2.png)
-
+![](images/temp/sst_penas_16-2.png)
 
 
 - Hypoxic Conditions in the surface and in deeper waters might contribute in the negative effects of the whales environment.
 
-O2 vertical concentration ![](images/oxygen-nut/o2_vertical_profile163.png)
+![](images/oxygen-nut/o2_vertical_profile163.png)
 
 
-Hypoxic zones ![](images/oxygen-nut/hypoxia_assessment_16_3.png)
-
+![](images/oxygen-nut/hypoxia_assessment_16_3.png)
 
 
 - The wind was considerate to have an idea where the whales were arrasted by the currents.
