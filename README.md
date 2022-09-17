@@ -1,6 +1,6 @@
 # Largest Mass Mortality in Baleen Whales
 
-## Analysing the event with code and CMEMS (Copernicus Marine Service) data.
+## Analysing the event with CMEMS (Copernicus Marine Service) data.
 
 - Place: Chilean Patagonia - Golfo de Penas [-79, -72, -44, -49]
 - Specie: Sei Whale (*Baleanoptera borealis*)
@@ -36,7 +36,7 @@ From the [Copernicus Marine Service](https://marine.copernicus.eu/) dataset are 
 
 ### Results
 
-- Sea Surface Chlorophyll was quantified and during the first months of 2015 (when the event happened) are visible zones near the shore (feeding areas) with high concentration of algae. The evidence of Dinoflagellates (*Alexandrium sp.*) in some points with concentrations **> 1 mg/m3** indicate possible HAB that could affected the whales during those periods of time. 
+- Sea Surface Chlorophyll was quantified and during the first months of 2015 (when the event happened) are visible zones near the shore (feeding areas) with high concentration of algae. The evidence of Dinoflagellates (*Alexandrium sp.*) in some points with concentrations **> 1.2 mg/m3** indicate possible HAB that could affected the whales during those periods of time. 
 
 
 Total Chlorophyll ![](images/chl-dino/penas_chl_15-3.png)
@@ -61,5 +61,11 @@ Dinoflagellates ![](images/chl-dino/dino_15_3.png)
 - Wind direction during those periods can be a variable to consider to know where the death bodies of whales were dragged.
 
 
-Wind speed and direction ![](images/wind/wind_evolution_penas_march2105-1.png)
+Wind speed and direction (March-2015) ![](images/wind/wind_evolution_penas_march2105-1.png)
+
+
+- Daily CHL concentration 2010-2020. **Prophet** model.
+
+
+![](timeSeries/images/TimeSeries-chl_daily-2010-2020.png)
 
