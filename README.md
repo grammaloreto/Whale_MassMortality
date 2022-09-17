@@ -36,7 +36,7 @@ From the [Copernicus Marine Service](https://marine.copernicus.eu/) dataset are 
 
 ### Results
 
-- Sea Surface Chlorophyll was quantified and during the first months of 2015 (when the event happened) are visible zones near the shore (feeding areas) with high concentration of algae. The evidence of Dinoflagellates (*Alexandrium sp.*) in some points with concentrations **> 1 mg/m3** indicate possible HAB that would affected the whales during those periods of time. 
+- Sea Surface Chlorophyll was quantified and during the first months of 2015 (when the event happened) are visible zones near the shore (feeding areas) with high concentration of algae. The evidence of Dinoflagellates (*Alexandrium sp.*) in some points with concentrations **> 1 mg/m3** indicate possible HAB that could affected the whales during those periods of time. 
 
 
 Total Chlorophyll ![](images/chl-dino/penas_chl_15-3.png)
@@ -45,7 +45,7 @@ Dinoflagellates ![](images/chl-dino/dino_15_3.png)
 
 
 - Sea Surface Temperature (SST) is higher comparing other periods. High temperatures are consequence of 'El Niño' event. 
-2013 - 2017 were especially hot years for the Pacific. The sea temperature oscilation (hot periods: El Niño - colder periods: La Niña) are correlated to HAB.
+2013 - 2017 were especially hot years for the Pacific. The sea temperature oscilation (hot periods: *El Niño* - colder periods: *La Niña*) are correlated to HAB.
 
 ![](images/temp/sst_penas_16-2.png)
 
